@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'webappdemosponsotship'
           slot-name: 'Production'
-          package: ./myapp # Chemin vers le dossier publié
+          package: './myapp' # Chemin vers le dossier publié
